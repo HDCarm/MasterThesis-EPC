@@ -1,5 +1,7 @@
 # MasterThesis-EPC
 
+To use the Code download the whole repository.
+
 ### File: CodeMasterthesis
 This file contains the code. 
 It is written in a way that allows for complete execution wherever located on your computer.
