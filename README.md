@@ -1,6 +1,6 @@
 # MasterThesis-EPC
 
-To use the Code download the whole repository.
+To use the code download the whole repository.
 
 ### File: CodeMasterthesis
 This file contains the code. 
